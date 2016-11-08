@@ -2,7 +2,7 @@
 
 ## 基于react 的豆瓣单页应用
 
-### 线上访问地址 ：http://www.jimstyle.cn/react/index.htm
+### 线上访问地址 ：http://www.jimstyle.cn
 
 ```
 npm install
