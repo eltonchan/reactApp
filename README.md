@@ -1,11 +1,14 @@
 
+
+## 基于react 的豆瓣单页应用
+
 ```
 npm install
 ```
-启动服务(http://localhost:8010)
+启动服务(http://localhost:8080)
 
 ```
-node server.js
+node run watch
 ```
 
 ###开发
